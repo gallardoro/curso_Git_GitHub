@@ -3,3 +3,6 @@ Mi primer repositorio creado durante mi aprendizaje en el curso de Git y GitHub 
 
 # primer cambio
 Mi primera contribución local para GitHub
+
+# segundo cambio
+Comitt desde GitHub (Nube)
