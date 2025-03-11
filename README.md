@@ -9,3 +9,5 @@ Comitt desde GitHub (Nube)
 
 # tercer cambio
 actualizacion nueva (vamos a usar fetch)
+
+Cambios desde rama local (developer)
